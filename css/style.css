@@ -405,7 +405,7 @@ nav ul li a:hover{
     border: 1px solid white;
     text-align: center;
     line-height: 40px;
-    margin: 10px 0px
+    margin: 10px 0px;
     
 }
 .t-image:hover .t-image-overlay{
@@ -696,6 +696,22 @@ footer a{
     #portfolio .col-3{
         padding: 10px 10px;
     }
+
+
+.t-image-overlay .fab{
+    color: white;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    border: 1px solid white;
+    text-align: center;
+    line-height: 20px;
+    margin: 2px 0px;
+    
+}
+
+
+
 }
 
 @media(max-width:500px){
